@@ -1,0 +1,160 @@
+# Uner 50k - No good laptops under 40k due to ram inflation, price hiked
+
+42,990 acer Professional 14, AMD Ryzen 3-7330U, 8 GB RAM, 512 GB SSD, Full HD 14", Windows 11 Pro, MSO21, Pro Silver, 1.39 KG , 36 Watt Hours
+
+43,990 - ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14", Windows 11, Office Home 2024, M365 Basic (1Year), AMD Radeon iGPU, E1404FA-EB2322WS, Mixed Black, 1.38 kg,42WHrs, 3S1P, 3-cell Li-ion
+
+42,990 - ASUS Vivobook Go 14 (2026),AMD Ryzen 3 30 Processor,AMD Radeon iGPU,8GB RAM,512GB SSD,FHD,14" (35.5 cm),Windows 11,M365 Basic(1Y)* Office 2024,Cool Silver,1.38 Kg,42 Watt Hours
+
+43,990 - ASUS Vivobook 15, Intel Core i3 13th Gen 1315U, 12GB RAM, 512GB SSD, FHD 15.6", Windows 11, Office Home 2024, Quiet Blue, 1.7Kg, X1504VA-BQ332WS, Intel UHD iGPU, M365 Basic (1Year)*, 42Whrs Laptop
+
+44,250 - HP 15 (2025), AMD Ryzen 3 7335U Quad Core - (8 GB DDR5/512 GB SSD/AMD Radeon Graphics/Windows 11 pro) Thin and Light Business Laptop/15.6" FHD Display/Turbo Silver/1.5 kg/MSO 2024 /41 Wh Li-ion
+
+44,800 - Lenovo V15 G4 (2024), AMD Ryzen 3 7320U Quad Core - (8GB/512GB SSD/AMD Radeon Graphics/Windows 11 Home) Thin and Light Business Laptop/15.6" FHD Display/Arctic Grey/1.57 kg/	65 Watt Hours
+
+46,490(price checked on deal day) - Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core 3 100U Processor, 8GB DDR4, 512 SSD, 15.6" NT FHD 120Hz IPS AG 250 nit Display, Win 11 + Office H&S 2024, Carbon Black, Thin & Light- 1.63Kg (battry not given assuming 40 - 50 whr)
+
+49,990(price checked on deal day) - Dell 15, Intel Core 3 14th Gen-100U, 16GB DDR4, 512GB SSD, FHD IPS, 15.6"/39.62cm, Windows 11, Microsoft Office Home 2024, Carbon Black, 1.63Kg, 41whr
+
+43,990(price checked on deal day) - acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg , 	36 Watt Hours
+
+47,990 - acer Aspire Lite, AMD Ryzen 5 7430U Processor,Office 2024 + M365 Basic, 16 GB RAM, 512 GB SSD, Full HD, 15.6"/39.62 cm, Windows 11 Home, Steel Grey, 1.59 kg, 36 Watt Hours
+
+45,990 - Lenovo IdeaPad Slim 3 13th Gen Intel Core i3-1315U 15.6 inch (39.6cm) FHD Laptop (8GB RAM/512GB SSD/Windows 11/Office 2024/1Yr ADP Free/3 Month Game Pass/Grey/1.6Kg)	47 Watt Hours
+
+
+# Under 60k - Mid Range Laptops For Normal Users
+
+51,990 - Acer Aspire 3 Backlit AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) Aspire AS15 - 42 Thin and Light Laptop (15.6 Inch, Silver, 1.79 Kg) 55 Watt Hours battery
+
+59,990 - HP 15 Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0576TU / 15-fd0467TU Thin and Light Laptop 55Wh batteries hour can be longer
+
+57,990 - MOTOROLA Motobook 60 Full Metal OLED (i5 14th Gen) Intel Core 5 (Series 2) 210H - (16 GB/512 GB SSD/Windows 11 Home) 14IRH10R Thin and Light Laptop (14 Inch, PANTONE Wedgewood, 1.4 Kg, With MS Office) 60 Watt Hours Battery
+
+59,999 - Lenovo IdeaPad Slim 3 Next Gen AI PC WUXGA IPS Copilot + PC with 1Yr ADP Snapdragon X - (16 GB/512 GB SSD/Windows 11 Home) 15Q8X10 Thin and Light Laptop (15.3 Inch, Luna Grey, 1.55 Kg, With MS Office) 50 Watt Hours Battery
+
+56,990 - ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Snapdragon X - (16 GB/512 GB SSD/Windows 11 Home) X1407QA-LY038WS Thin and Light Laptop (14 Inch, Quiet Blue, 1.49 Kg, With MS Office) 70 Watt Hours Battery
+
+51,980 - HP 15 (i3 14th Gen) Intel Core 3 100U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0885TU Thin and Light Laptop (15.6 inch, Natural Silver, 1.59 Kg, With MS Office) 41 Watt Hours Battery
+
+59,990 - MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) Thin A15 B7UC-284IN / Thin A15 B7UC-102IN Gaming Laptop (15.6 Inch, Cosmos Gray, 1.86 Kg) 52.4 Watt Hours Battery
+
+55,990 - Lenovo LOQ Intel Core i5 12th Gen 12450HX - (12 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) LOQ 15IAX9 Gaming Laptop (15.6 Inch, Luna Grey, 2.38 kg) 60 Watt Hours Battery
+
+55,696 - HP 15 with Backlit Keyboard & Office 2024 AMD Ryzen 7 Octa Core 5825U - (16 GB/512 GB SSD/Windows 11 Home) 15-fc0476AU / 15-fc0533AU Thin and Light Laptop (15.6 Inch, Natural Silver, 1.59 Kg, With MS Office) 41 Watt Hours Battery
+
+59,990 - Acer Aspire Go 14 Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) AG14-71M Thin and Light Laptop (14 Inch, Steel Gray, 1.5 Kg, With MS Office) 54.8 Watt Hours Battery
+
+
+# Under 80k Gaming & Premium Laptops
+
+61,990 - ASUS Vivobook S14 Flip (2025) with Office 2024 + M365 Basic*, Backlit Keyboard, Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home) TP3402VAO-LZ612WS 2 in 1 Laptop (14 Inch, Transparent Silver, 1.65 kg, With MS Office) 50 Watt Hours Battery
+
+70,990 - HP Victus Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 A) 15-fa2191TX Gaming Laptop (15.6 Inch, Performance blue, chrome logo, 2.29 Kg, With MS Office) 52.5 Watt Hours Battery
+
+79,990 - HP 14 AI PC Intel Core Ultra 7 - (16 GB/1 TB SSD/Windows 11 Home) 14-ep1152TU Thin and Light Laptop (14 Inch, Natural Silver, 1.4 kg, With MS Office) 41 Watt Hours Battery
+
+79,990 - Samsung Galaxy Book5 AI Metal Intel Core Ultra 5 225U - (16 GB/512 GB SSD/Windows 11 Home) NP750XHD Thin and Light Laptop (15.6 Inch, Gray, 1.55 Kg, With MS Office) 61.2 Watt Hours Battery
+
+75,990 - Lenovo LOQ 2025 AMD Ryzen 5 Quad Core 7235HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050A/144 Hz) 15ARP9 Gaming Laptop (15.6 inch, Luna Grey, 2.38 kg, With MS Office) 60 Watt Hours Battery
+
+73,990 - ASUS Expertbook P1 High-performance processor with 1 Yr ADP Intel Core i7 13th Gen 13620H - (32 GB/512 GB SSD/Windows 11 Home) P1503CVA-S71076WS Thin and Light Laptop (15.6 Inch, Misty Grey, 1.65 Kg, With MS Office) 50 Watt Hours Battery
+
+78,490 - HP Victus Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15-fa0666TX Gaming Laptop (15.6 Inch, Blue, 2.37 Kg, With MS Office) 70 Watt Hours Battery
+
+72,990 - MSI Modern 15 H Intel Core i7 13th Gen 13700H - (16 GB/1 TB SSD/Windows 11 Home) Modern 15 H C13M Business Laptop (15.6 Inch, Classic Black, 1.9 Kg, With MS Office) 39.3 Watt Hours Battery
+
+75,990 - DELL Inspiron 14 Microsoft Office Home 2024 Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Windows 11 Home) Inspiron 7440 2-in-1 / Inspiron 14 2in1 2 in 1 Laptop (14 Inch, Ice Blue, 1.71 Kg, With MS Office) 54 Watt Hours Battery
+
+77,990 - ASUS TUF Gaming A15 (2026) AMD Ryzen 7 170 - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) FA506NCQ-HN008W Gaming Laptop (15.6 inch, Black, 2.3 kg) 48 Watt Hours Battery
+
+
+# Under 1L Premium & High-Performance Laptops
+
+84,990 - ASUS Zenbook A14 OLED (2025), MSO 2024 + M365 Basic, Metal Body, Backlit Keyboard, Snapdragon X - (16 GB/512 GB SSD/Windows 11 Home) UX3407QA-QD259WS Thin and Light Laptop (14 Inch, Iceland Gray, 0.98 Kg, With MS Office)70 Watt Hours Battery
+
+99,990 - MICROSOFT Surface Laptop 13" Snapdragon X Plus - (16 GB/256 GB SSD/Windows 11 Home) EP2-36996 Laptop (13 Inch, Platinum) 50 Watt Hours Battery
+
+98,870 - Lenovo LOQ Essential Intel Core i7 12650HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) LOQ 15IAX9E Gaming Laptop (15.6 Inch, Luna Grey, With MS Office) 57 Watt Hours Battery
+
+89,990 - DELL 14 Plus Microsoft Office Home 2024 Intel Core Ultra 7 256V - (16 GB/512 GB SSD/Windows 11 Home) DB14250 Thin and Light Laptop (14 Inch, Ice Blue, 1.55 Kg, With MS Office)64 Watt Hours Battery
+
+98,290 - Lenovo IdeaPad Slim 3 (i5 14th Gen) Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) 15IRU9 Thin and Light Laptop (15.6 Inch, Arctic Grey, 1.62 Kg, With MS Office) 47 Watt Hours Battery
+
+90,990 - HP Victus Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/144 Hz) Victus 15-fa2381TX / 15-fa2701TX / 15-fa1278TX Gaming Laptop (15.6 Inch, Mica Silver, 2.29 Kg, With MS Office) 70 Watt Hours Battery
+
+85,491 - Lenovo Yoga 6 with 1Yr ADP AMD Ryzen 7 Octa Core 7730U - (16 GB/1 TB SSD/Windows 11 Home) 13ABR8 2 in 1 Laptop (13.3 Inch, Dark Teal, 1.37 Kg, With MS Office) 59 Watt Hours Battery
+
+99,990 - ASUS ExpertBook P3 Intel Core Ultra 7 255H - (16 GB/512 GB SSD/Windows 11 Home) P3606CCAP-MB1007WS Thin and Light Laptop (16 inch, Misty Grey, 1.91 kg, With MS Office)50 Watt Hours Battery
+
+97,990 - Acer Swift 14 AI Office 2024 + M365 Basic Intel Core Ultra 7 - (16 GB/1 TB SSD/Windows 11 Home) SF14-51 Thin and Light Laptop (14 Inch, Steam Blue, 1.28 Kg, With MS Office) 65 Watt Hours Battery
+
+89,990 - ASUS Vivobook 16 (2026) AI PC with Office 2024 + M365 Basic*, Copilot+ PC AMD Ryzen AI 7 Hexa Core - (16 GB/512 GB SSD/Windows 11 Home) M1607GA-MB029WS Thin and Light Laptop (16 inch, Cool Silver, 1.88 kg, With MS Office)70 Watt Hours Battery
+
+
+194,990 - ASUS Zenbook Duo OLED AI PC, Intel Core Ultra 5 125H - (16 GB/1 TB SSD/Windows 11 Home) Touch Screen, Full Metal Body, UX8406MA-QL551WS, 75 Watt Hours Battery
+
+153,588 - Samsung Galaxy Book5 Pro AI PC, Intel Core Ultra 5 226V - (16 GB/512 GB SSD/Windows 11 Home) Full Metal Chasis, 14 Inch Display, Gray, 1.23 Kg, NP940XHA, 63 Watt Hours Battery
+
+152,990 - ASUS Vivobook S 14 (2024) OLED AI PC, AMD Ryzen AI 9 12 Core HX 370 - (24 GB/512 GB SSD/Windows 11 Home) 14 Inch 3K OLED 120Hz Display, Cool Silver, M5406WA-PP962WS, 75 Watt Hours Battery
+
+141,990 - ASUS Vivobook 14 OLED (2026) AI PC, Intel Core Ultra 5 (Series 3) 325 - (16 GB/512 GB SSD/Windows 11 Home) Office 2024 + M365, X1407AA-LY028WS, 70 Watt Hours Battery
+
+135,990 - ASUS Zenbook 14 OLED (2025), Intel Core Ultra 5 225H - (16 GB/1 TB SSD/Windows 11 Home) Touch Screen, Full Metal Body, Foggy Silver, 1.28 Kg, UX3405CA-PZ345WS, 75 Watt Hours Battery
+
+122,990 - ASUS Zenbook A14 OLED (2025), Snapdragon X - (16 GB/512 GB SSD/Windows 11 Home) Metal Body, 14 Inch Display, Iceland Gray, 0.98 Kg, UX3407QA-QD259WS, 70 Watt Hours Battery
+
+116,990 - ASUS Vivobook S14 OLED (2025) Copilot + PC, Intel Core Ultra 5 226V - (16 GB/512 GB SSD/Windows 11 Home) 14 Inch Display, Blue, 1.3 Kg, S5406SA-QD098WS, 75 Watt Hours Battery
+
+98,990 - ASUS Vivobook S14 (2025) AI PC, Intel Core Ultra 5 225H - (16 GB/512 GB SSD/Windows 11 Home) 14 Inch Display, Cool Silver, 1.39 Kg, S3407CA-LY060WS, 75 Watt Hours Battery
+
+92,990 - ASUS Vivobook S14 (2025) AI PC, Snapdragon X - (16 GB/512 GB SSD/Windows 11 Home) 14 Inch Display, Matte Gray, 1.39 Kg, S3407QA-KP027WS, 70 Watt Hours Battery
+
+64,490 - ASUS Expertbook P1, Intel Core i5 13th Gen 13420U - (16 GB/512 GB SSD/Windows 11 Home) 15.6 Inch Display, Misty Grey, 1.62 Kg, P1503CVA-S71074WS, 50 Watt Hours Battery
+
+221,990 - ASUS ROG Zephyrus G16 (2025), Intel Core Ultra 9 285H - (32 GB/2 TB SSD/Windows 11 Home/16 GB Graphics/NVIDIA GeForce RTX 5080/240 Hz) 16 Inch Display, Eclipse Gray, 1.85 Kg, GU605CW-QR133WS, 90 Watt Hours Battery
+
+162,090 - Lenovo LOQ 2025, Intel Core i7 13th Gen 13700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 5060) 15.6 Inch Full HD Display, Luna Grey, 2.4 Kg, LoQ 15IRX10, 60 Watt Hours Battery
+
+152,290 - Lenovo LOQ 2025, Intel Core i7 14th Gen 14700HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 5050) 15.6 Inch Display, Luna Grey, 2.4 Kg, LoQ 15IRX10, 60 Watt Hours Battery
+
+149,990 - ASUS Gaming V16 (2025) for Creator AI PC, Intel Core 7 240H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 5060/144 Hz) 16 Inch Display, Black, 1.95 Kg, V3607VM-RP057WS, 73 Watt Hours Battery
+
+139,999 - Colorful P15, Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060) 15.6 Inch Display, Gray, 2.4 Kg, P15 23-HJ76B16512E-G-IND, 53 Watt Hours Battery
+
+132,590 - Lenovo LOQ 2025, AMD Ryzen 7 Octa Core 250 - (24 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 5050) 15.6 Inch Display, Luna Grey, 2.4 Kg, LoQ 15AHP10, 60 Watt Hours Battery
+
+131,190 - Lenovo LOQ, Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060) LOQ 15IRH8D2, 60 Watt Hours Battery
+
+127,990 - Lenovo LOQ, AMD Ryzen 7 Octa Core 7435HS - (24 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060) 15.6 Inch Display, Luna Grey, 2.38 Kg, 15ARP9, 60 Watt Hours Battery
+
+115,999 - Acer Nitro V, Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) 15.6 Inch Display, Obsidian Black, 2.1 Kg, ANV15-51-727E, 57 Watt Hours Battery
+
+109,990 - Asus TUF Gaming A15 FA507UV-LP137WS, AMD Ryzen 9 8945H - (16 GB DDR5 RAM/1 TB SSD/8 GB NVIDIA GeForce RTX 4060 GPU) 15.6" IPS LCD Display, 90 WHrs Battery
+
+134,990 - Asus TUF Gaming F16 FX608JMR-RV049WS, Intel Core i7-14650HX - (16 GB DDR5 RAM/1 TB SSD/8 GB NVIDIA GeForce RTX 4060 GPU) 16" IPS LCD Display, 90 WHrs Battery
+
+175,000 - Acer Predator Helios Neo 16S AI (2025), Intel Ultra 7 255HX - (16GB 6400MHz RAM/1TB Gen4 SSD/8GB NVIDIA RTX 5060) 16-inch 2K OLED 240Hz, 76 WHrs Battery
+
+129,990 - MSI Katana 15 HX B14WFK-262IN Gaming Laptop, Intel Core i7 14650HX - (16 GB RAM/ 1 TB SSD/Win11 Home/ 8 GB NVIDIA GeForce RTX 4060) 15.6" IPS Display, 53.5 WHrs Battery
+
+155,990 - HP OMEN 16-an0015TX Intel Core Ultra 7 Gaming Laptop - (24 GB DDR5 RAM/1 TB SSD/Windows 11 Home/8 GB NVIDIA GeForce RTX 4060 GPU) 16 inch 165 Hz 2K IPS Display, 83 WHrs Battery
+
+118,990 - Dell G15 5530 (OGN55301114P01RIN) Gaming Laptop, Intel Core i7 13th Gen - (16 GB RAM/1 TB SSD/Windows 11/8 GB NVIDIA GeForce RTX 4060) 15.6 Inch Full HD Display, 86 WHrs Battery
+
+
+94,990 - ASUS TUF Gaming A15 (2025 Edition), AMD Ryzen 7 7435HS - (16GB DDR5 RAM/512GB NVMe SSD/Windows 11/8GB NVIDIA GeForce RTX 4060) 15.6” Full HD 144Hz, 90 WHrs Battery
+
+89,990 - Lenovo LOQ 2024, AMD Ryzen 7 7435HS - (16GB DDR4 RAM/512GB SSD/Windows 11/8GB NVIDIA GeForce RTX 4060) 15.6-inch Full HD 144Hz, 60 WHrs Battery
+
+76,990 - Acer Nitro V 15, Intel Core i5-13620H - (16GB DDR5 RAM/512GB SSD/Windows 11/6GB NVIDIA GeForce RTX 4050) 15.6-inch Full HD 165Hz, 57 WHrs Battery
+
+68,990 - HP Victus 15, Intel Core i5-13420H - (16GB DDR4 RAM/1TB SSD/Windows 11/6GB NVIDIA GeForce RTX 4050) 15.6-inch Full HD 144Hz, 70 WHrs Battery
+
+62,990 - MSI Gaming Bravo 15, AMD Ryzen 7-4800H - (16GB DDR4 RAM/512GB SSD/Windows 11/4GB AMD Radeon RX5500M) 15.6-inch Full HD 144Hz, 53.5 WHrs Battery
+
+90,499 - Dell 14 Plus 2-in-1 Touch Laptop, AI Enabled Intel Core Ultra 5 226V - (16 GB LPDDR5X/512 GB SSD/Intel Arc Graphics/Windows 11) 14" FHD+ WVA Display, Ice Blue, 64 WHrs Battery
+
+80,499 - Dell Inspiron 16 Plus Laptop, Intel Core Ultra 5 125H - (16 GB LPDDR5/512 GB SSD/Intel Arc Graphics/Windows 11) 16" FHD+ Display, Ice Blue, 64 WHrs Battery
+
+79,999 - DELL DC 15250 Intel Core i5 Laptop - (16 GB RAM/1 TB SSD/Windows 11/15.6 inch Full HD IPS Display) Platinum Silver, 54 WHrs Battery

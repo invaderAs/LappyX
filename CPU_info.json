@@ -1,0 +1,282 @@
+[
+    {
+        "cpu_name": "AMD Ryzen 7 7730U",
+        "single_core_score": "56",
+        "multi_core_score": "27",
+        "power_score": "71",
+        "integrated_gpu_score": "41"
+    },
+    {
+        "cpu_name": "AMD Ryzen 5 5625U",
+        "single_core_score": "52",
+        "multi_core_score": "20",
+        "power_score": "67",
+        "integrated_gpu_score": "44"
+    },
+    {
+        "cpu_name": "AMD Ryzen AI 9 HX 370",
+        "single_core_score": "81",
+        "multi_core_score": "54",
+        "power_score": "76",
+        "integrated_gpu_score": "98"
+    },
+    {
+        "cpu_name": "AMD Ryzen 5 7235HS",
+        "single_core_score": "51",
+        "multi_core_score": "19",
+        "power_score": "68",
+        "integrated_gpu_score": "n/a"
+    },
+    {
+        "cpu_name": "Intel Core i5-13420H",
+        "single_core_score": "62",
+        "multi_core_score": "26",
+        "power_score": "57",
+        "integrated_gpu_score": "30"
+    },
+    {
+        "cpu_name": "Intel Core 5 120U",
+        "single_core_score": "68",
+        "multi_core_score": "22",
+        "power_score": "65",
+        "integrated_gpu_score": "41"
+    },
+    {
+        "cpu_name": "Intel Core i5-12450HX",
+        "single_core_score": "60",
+        "multi_core_score": "28",
+        "power_score": "53",
+        "integrated_gpu_score": "16"
+    },
+    {
+        "cpu_name": "AMD Ryzen 7 7435HS",
+        "single_core_score": "56",
+        "multi_core_score": "33",
+        "power_score": "73",
+        "integrated_gpu_score": "n/a"
+    },
+    {
+        "cpu_name": "Intel Core i7-13620H",
+        "single_core_score": "69",
+        "multi_core_score": "38",
+        "power_score": "57",
+        "integrated_gpu_score": "37"
+    },
+    {
+        "cpu_name": "AMD Ryzen 3 7330U",
+        "single_core_score": "50",
+        "multi_core_score": "14",
+        "power_score": "71",
+        "integrated_gpu_score": "35"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 7 255HX",
+        "single_core_score": "85",
+        "multi_core_score": "69",
+        "power_score": "75",
+        "integrated_gpu_score": "51"
+    },
+    {
+        "cpu_name": "Intel Core i3-1315U",
+        "single_core_score": "58",
+        "multi_core_score": "15",
+        "power_score": "61",
+        "integrated_gpu_score": "36"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 5 226V",
+        "single_core_score": "69",
+        "multi_core_score": "29",
+        "power_score": "74",
+        "integrated_gpu_score": "72"
+    },
+    {
+        "cpu_name": "AMD Ryzen 7 5825U",
+        "single_core_score": "55",
+        "multi_core_score": "24",
+        "power_score": "67",
+        "integrated_gpu_score": "41"
+    },
+    {
+        "cpu_name": "AMD Ryzen 7 4800H",
+        "single_core_score": "47",
+        "multi_core_score": "27",
+        "power_score": "61",
+        "integrated_gpu_score": "43"
+    },
+    {
+        "cpu_name": "Intel Core i7-14650HX",
+        "single_core_score": "73",
+        "multi_core_score": "50",
+        "power_score": "61",
+        "integrated_gpu_score": "31"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 9 285H",
+        "single_core_score": "80",
+        "multi_core_score": "51",
+        "power_score": "75",
+        "integrated_gpu_score": "87"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 7 255H",
+        "single_core_score": "78",
+        "multi_core_score": "51",
+        "power_score": "78",
+        "integrated_gpu_score": "86"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 5 125H",
+        "single_core_score": "63",
+        "multi_core_score": "31",
+        "power_score": "69",
+        "integrated_gpu_score": "79"
+    },
+    {
+        "cpu_name": "AMD Ryzen 7 170",
+        "single_core_score": "57",
+        "multi_core_score": "33",
+        "power_score": "79",
+        "integrated_gpu_score": "73"
+    },
+    {
+        "cpu_name": "AMD Ryzen 3 7320U",
+        "single_core_score": "38",
+        "multi_core_score": "12",
+        "power_score": "72",
+        "integrated_gpu_score": "26"
+    },
+    {
+        "cpu_name": "Intel Core i5-12450H",
+        "single_core_score": "62",
+        "multi_core_score": "26",
+        "power_score": "52",
+        "integrated_gpu_score": "29"
+    },
+    {
+        "cpu_name": "Intel Core i7-14700HX",
+        "single_core_score": "76",
+        "multi_core_score": "55",
+        "power_score": "61",
+        "integrated_gpu_score": "31"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 5 325",
+        "single_core_score": "62",
+        "multi_core_score": "28",
+        "power_score": "84",
+        "integrated_gpu_score": "n/a"
+    },
+    {
+        "cpu_name": "Intel Core 7 240H",
+        "single_core_score": "73",
+        "multi_core_score": "39",
+        "power_score": "66",
+        "integrated_gpu_score": "37"
+    },
+    {
+        "cpu_name": "AMD Ryzen 5 7535HS",
+        "single_core_score": "56",
+        "multi_core_score": "26",
+        "power_score": "68",
+        "integrated_gpu_score": "44"
+    },
+    {
+        "cpu_name": "Intel Core i7-13700H",
+        "single_core_score": "69",
+        "multi_core_score": "38",
+        "power_score": "57",
+        "integrated_gpu_score": "48"
+    },
+    {
+        "cpu_name": "Intel Core i7-13700HX",
+        "single_core_score": "71",
+        "multi_core_score": "50",
+        "power_score": "56",
+        "integrated_gpu_score": "31"
+    },
+    {
+        "cpu_name": "Intel Core 5 210H",
+        "single_core_score": "67",
+        "multi_core_score": "28",
+        "power_score": "66",
+        "integrated_gpu_score": "30"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 5 225U",
+        "single_core_score": "67",
+        "multi_core_score": "28",
+        "power_score": "79",
+        "integrated_gpu_score": "51"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 5 225H",
+        "single_core_score": "77",
+        "multi_core_score": "43",
+        "power_score": "78",
+        "integrated_gpu_score": "79"
+    },
+    {
+        "cpu_name": "AMD Ryzen 5 7430U",
+        "single_core_score": "53",
+        "multi_core_score": "21",
+        "power_score": "71",
+        "integrated_gpu_score": "44"
+    },
+    {
+        "cpu_name": "Snapdragon X Plus",
+        "single_core_score": "66",
+        "multi_core_score": "40",
+        "power_score": "84",
+        "integrated_gpu_score": "77"
+    },
+    {
+        "cpu_name": "Intel Core Ultra 7 256V",
+        "single_core_score": "75",
+        "multi_core_score": "28",
+        "power_score": "74",
+        "integrated_gpu_score": "80"
+    },
+    {
+        "cpu_name": "Intel Core i5-1335U",
+        "single_core_score": "60",
+        "multi_core_score": "21",
+        "power_score": "61",
+        "integrated_gpu_score": "40"
+    },
+    {
+        "cpu_name": "AMD Ryzen 7 250",
+        "single_core_score": "70",
+        "multi_core_score": "38",
+        "power_score": "81",
+        "integrated_gpu_score": "81"
+    },
+    {
+        "cpu_name": "Intel Core i7-12650HX",
+        "single_core_score": "67",
+        "multi_core_score": "42",
+        "power_score": "53",
+        "integrated_gpu_score": "30"
+    },
+    {
+        "cpu_name": "Intel Core 3 100U",
+        "single_core_score": "68",
+        "multi_core_score": "18",
+        "power_score": "65",
+        "integrated_gpu_score": "36"
+    },
+    {
+        "cpu_name": "Intel Core i5-1334U",
+        "single_core_score": "60",
+        "multi_core_score": "21",
+        "power_score": "61",
+        "integrated_gpu_score": "40"
+    },
+        {
+        "cpu_name": "Snapdragon X",
+        "single_core_score": "59",
+        "multi_core_score": "30",
+        "power_score": "94",
+        "integrated_gpu_score": "49"
+    }
+]

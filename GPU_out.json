@@ -1,0 +1,98 @@
+[
+    {
+        "gpu_name": "AMD Radeon RX 5500M",
+        "url": "https://nanoreview.net/en/gpu/radeon-rx-5500m",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 13,
+            "Workstation": 20,
+            "AI/ML": 12,
+            "Energy Efficiency": 64
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 2050",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-2050-mobile",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 14,
+            "Workstation": 20,
+            "AI/ML": 14,
+            "Energy Efficiency": 75
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 3050",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-3050-mobile",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 18,
+            "Workstation": 25,
+            "AI/ML": 18,
+            "Energy Efficiency": 59
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 4050",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-4050-mobile",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 28,
+            "Workstation": 30,
+            "AI/ML": 27,
+            "Energy Efficiency": 56
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 4060",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-4060-mobile",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 34,
+            "Workstation": 36,
+            "AI/ML": 31,
+            "Energy Efficiency": 56
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 5050",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-5050",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 34,
+            "Workstation": 36,
+            "AI/ML": 31,
+            "Energy Efficiency": 62
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 5060",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-5060",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 43,
+            "Workstation": 44,
+            "AI/ML": 36,
+            "Energy Efficiency": 58
+        }
+    },
+    {
+        "gpu_name": "NVIDIA GeForce RTX 5080",
+        "url": "https://nanoreview.net/en/gpu/geforce-rtx-5080",
+        "gaming_score": null,
+        "power_efficiency_score": null,
+        "scores": {
+            "Gaming": 87,
+            "Workstation": 85,
+            "AI/ML": 70,
+            "Energy Efficiency": 49
+        }
+    }
+]
