@@ -1,0 +1,47 @@
+Here are the laptop recommendations:
+
+---
+
+**1. ASUS TUF Gaming A15 (2025 Edition)**
+*   Features a powerful AMD Ryzen 7 7435HS CPU and NVIDIA GeForce RTX 4060 GPU.
+*   Equipped with 16GB RAM, ideal for demanding programming and multitasking.
+*   Boasts an excellent 90Wh battery, providing long unplugged usage.
+*   Robust "TUF Gaming" build, offering durability.
+*   Priced at 94,990 INR, near the top of your budget.
+
+    **Strengths:** Outstanding performance for coding, AI/ML, and general productivity; RTX 4060 offers significant future-proofing; very good battery life; solid build quality for longevity.
+    **Weaknesses:** Likely a heavier laptop, which might affect portability for frequent travel; gaming aesthetic may not appeal to all.
+
+**2. HP Victus 15**
+*   Powered by a capable Intel Core i5-13420H CPU and NVIDIA GeForce RTX 4050 GPU.
+*   Comes with 16GB RAM, sufficient for most programming tasks.
+*   Features a good 70Wh battery, balancing portability and runtime.
+*   Offers a more subdued design compared to typical gaming laptops.
+*   Significantly more affordable at 68,990 INR.
+
+    **Strengths:** Excellent value for money; well-balanced performance for general programming and GPU-accelerated tasks; decent battery life; less aggressive design.
+    **Weaknesses:** CPU is less powerful than the Ryzen 7 or i7 options, which could impact performance for very CPU-intensive projects; still on the heavier side, though often less bulky than pure gaming models.
+
+**3. Lenovo LOQ Essential**
+*   Equipped with an Intel Core i7-12650HX CPU and NVIDIA GeForce RTX 4050 GPU.
+*   Includes 16GB RAM, suitable for programming workloads.
+*   Features a moderate 57Wh battery.
+*   Gaming-focused build, expected to be durable.
+*   Priced at 98,870 INR, very close to your budget.
+
+    **Strengths:** Strong CPU and dedicated GPU performance for programming; good build quality; sufficient RAM for multitasking.
+    **Weaknesses:** Older CPU generation than the ASUS; RTX 4050 is a step down from the ASUS's RTX 4060; smaller battery than the other two; higher price than the ASUS despite slightly lower specs and older CPU, impacting value for money; likely heavy for frequent travel.
+
+---
+
+**Ranking (Best to Worst):**
+
+1.  **ASUS TUF Gaming A15 (2025 Edition)**
+2.  **HP Victus 15**
+3.  **Lenovo LOQ Essential**
+
+---
+
+**Best Overall Choice:**
+
+The **ASUS TUF Gaming A15 (2025 Edition)** is the best overall choice. It offers the strongest performance (Ryzen 7 + RTX 4060) which is critical for demanding programming, ensures longevity for 3-4 years, and includes a large battery that, while not a primary concern, is beneficial for frequent travel. Its higher performance justifies the price, making it the most future-proof option within your budget.

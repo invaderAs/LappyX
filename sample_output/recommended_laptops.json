@@ -1,0 +1,53 @@
+{
+    "user_preferences": {
+        "budget": 100000,
+        "primary_use": "Programming / Coding",
+        "battery_importance": "Not Important",
+        "travel_frequency": "Frequently",
+        "min_ram_gb": 16,
+        "needs_dgpu": true,
+        "longevity": "3-4 Years"
+    },
+    "top_recommendations": [
+        {
+            "rank": 1,
+            "score": 60.64,
+            "brand": "ASUS",
+            "model": "TUF Gaming A15 (2025 Edition)",
+            "price_inr": 94990,
+            "cpu": "AMD Ryzen 7 7435HS",
+            "gpu": "NVIDIA GeForce RTX 4060",
+            "ram_gb": 16,
+            "battery_wh": 90,
+            "weight_kg": null,
+            "has_dgpu": true,
+            "why_recommended": "Strong CPU performance and sufficient RAM for programming workloads"
+        },
+        {
+            "rank": 2,
+            "score": 55.89,
+            "brand": "Lenovo",
+            "model": "LOQ Essential",
+            "price_inr": 98870,
+            "cpu": "Intel Core i7-12650HX",
+            "gpu": "NVIDIA GeForce RTX 4050",
+            "ram_gb": 16,
+            "battery_wh": 57,
+            "weight_kg": null,
+            "has_dgpu": true,
+            "why_recommended": "Strong CPU performance and sufficient RAM for programming workloads"
+        }
+    ],
+    "overall_good_buy": {
+        "brand": "HP",
+        "model": "Victus 15",
+        "price_inr": 68990,
+        "cpu": "Intel Core i5-13420H",
+        "gpu": "NVIDIA GeForce RTX 4050",
+        "ram_gb": 16,
+        "battery_wh": 70,
+        "weight_kg": null,
+        "has_dgpu": true,
+        "why_recommended": "Offers the best balance of performance, battery life, portability, and value for money."
+    }
+}
