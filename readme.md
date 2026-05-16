@@ -1,280 +1,228 @@
-\# LappyX
+# LappyX
 
+LappyX is a Python-based laptop recommendation engine that helps users choose the best laptop based on their budget, workload, and personal priorities.
 
+The project uses real CPU and GPU benchmark data to rank laptops for tasks such as programming, gaming, AI and machine learning, video editing, and general use.
 
-\*\*LappyX\*\* is a Python-based laptop recommendation engine designed to help users navigate the often-confusing world Filtering: Finds the best value within your price range.
+Development is currently in the initial stage. The core recommendation engine is functional, but data collection, benchmark scraping, and dataset generation are still being improved.
 
+## Features
 
+* Budget-based laptop filtering
+* Personalized recommendations based on user priorities
+* Benchmark-based scoring using CPU and GPU performance data
+* Constraint validation for unrealistic requirements
+* Gemini-powered summaries and trade-off analysis
+* Support for gaming laptops, thin and light laptops, premium laptops, and Copilot+ PCs
 
-\* \*\*Personalized Recommendations:\*\* Tailors suggestions based on what \*you\* care about most.
+## Current Dataset
 
-\* \*\*Benchmark-driven Scoring:\*\* Uses real CPU and GPU performance data rather than just marketing specs.
+* 74+ laptop models
+* Price range from ₹40,000 to ₹2,00,000+
+* CPU benchmark data from NanoReview
+* GPU benchmark data from NanoReview
+* 8 GB, 16 GB, and 32 GB RAM configurations
 
-\* \*\*Constraint Validation:\*\* Gently lets you know if your requirements are unrealistic for your budget.
-
-\* \*\*Gemini-powered Analysis:\*\* Provides AI-generated summaries of trade-offs for each recommendation.
-
-\* \*\*Diverse Category Support:\*\* Covers gaming rigs, thin-and-lights, premium ultrabooks, and Copilot+ PCs.
-
-
-
-\---
-
-
-
-\## 📊 Current Dataset
-
-
-
-\* \*\*Models:\*\* 74+ laptop models.
-
-\* \*\*Price Range:\*\* ₹40,000 to ₹2,00,000+.
-
-\* \*\*Data Sources:\*\* CPU and GPU benchmarks scraped from \*\*NanoReview\*\*.
-
-\* \*\*Memory:\*\* Configurations including 8 GB, 16 GB, and 32 GB RAM.
-
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
-
+## Project Structure
 
 ```text
-
 LappyX/
-
-├── name.txt             # Unstructured raw 🛠️ Installation
-
-
-
-1\.  \*\*Clone the Repository:\*\*
-
-&#x20;   ```bash
-
-&#x20;   git clone \[https://github.com/YOUR\_USERNAME/Lappy](https://github.com/YOUR\_USERNAME/Lappy) laptop listings
-
-├── nametojson.py        # Script to parse listings into JSON
-
-├── laptops.json         # The main laptop database
-
-├── cpu\_X.git
-
-&#x20;   cd LappyX
-
-&#x20;   ```
-
-
-
-2\.  \*\*Create a Virtual Environment (Optional):\*\*
-
-&#x20;   ```bash
-
-&#x20;   pythonscraper.py       # Scraper for CPU benchmarks
-
-├── gpu\_scraper.py       # Scraper for GPU benchmarks
-
-├── CPU\_info.json        # -m venv .venv
-
-&#x20;   ```
-
-
-
-3\.  \*\*Activate the Environment:\*\*
-
-&#x20;   \*   \*\*Windows:\*\* `.venv\\Scripts\\activate Scraped CPU scores
-
-├── GPU\_out.json         # Scraped GPU scores
-
-├── recommend\_cli.py     # Main CLI for user interaction
-
-├── gemini\_review`
-
-&#x20;   \*   \*\*Linux/macOS:\*\* `source .venv/bin/activate`
-
-
-
-4\.  \*\*Install Dependencies:\*\*
-
-&#x20;   ```bash
-
-.py     # AI analysis script
-
-├── ALL\_process.py       # Master script to run full workflow
-
-├── README.md            # Project documentation
-
-├── requirements.txt    pip install -r requirements.txt
-
-&#x20;   ```
-
-
-
-\---
-
-
-
-\## 🖥️ Usage
-
-
-
-| Option | Command | Description |
-
-| :--- | :---     # Python dependencies
-
-└── .gitignore           # Git ignore rules
-
-
-
+├── name.txt
+├── nametojson.py
+├── laptops.json
+├── cpu_scraper.py
+├── gpu_scraper.py
+├── CPU_info.json
+├── GPU_out.json
+├── recommend_cli.py
+├── gemini_review.py
+├── ALL_process.py
+├── recommended_laptops.json
+├── final_report.txt
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
+## How the Project Works
 
+### 1. Raw Data Collection
 
-\---
+Laptop listings are collected as unstructured text in `name.txt`.
 
+### 2. Conversion to JSON
 
+The data in `name.txt` is converted into `laptops.json`.
 
-\## ⚙️ How It Works
+The script `nametojson.py` exists for this purpose, but it still requires additional work to extract specifications accurately.
 
+For now, the recommended approach is to use an AI model to convert the raw text into structured JSON more accurately.
 
+### 3. Benchmark Scraping
 
-1\. \*\*Raw Data Collection:\*\* Laptop listings are stored as unstructured text in `name.txt`.
+Run:
 
-2\. \*\*JSON Conversion:\*\* `nametojson.py` converts text to structured data. \*Current tip: Use an LLM for more accurate parsing while the script is being optimized.\*
+* `cpu_scraper.py`
+* `gpu_scraper.py`
 
-3\. \*\*Benchmark Scraping:\*\* `cpu\_scraper.py` and `gpu\_scraper.py` pull the latest scores from NanoReview.
+These scripts scrape benchmark scores from NanoReview and save them to:
 
-4\. \*\*Recommendation Engine:\*\* `recommend\_cli.py` filters the database and scores laptops based on your specific workload.
+* `CPU_info.json`
+* `GPU_out.json`
 
-5\. \*\*Gemini Review:\*\* `gemini\_review.py` creates a concise summary of strengths, weaknesses, and trade-offs.
+Some CPUs and GPUs may fail to scrape if NanoReview uses a different URL format. These cases may need to be corrected manually.
 
-6\. \*\*Full Automation:\*\* `ALL\_process.py` runs the recommendation engine and the AI review in one go.
+### 4. Recommendation Engine
 
+`recommend_cli.py` asks the user a series of questions, including:
 
+1. Maximum budget
+2. Primary use case
+3. Battery life importance
+4. Travel frequency
+5. Minimum RAM requirement
+6. Dedicated GPU requirement
+7. Expected years of usage
 
-\---
+The script filters eligible laptops and calculates a score using benchmark data and user priorities.
 
+### 5. Gemini Review
 
+`gemini_review.py` analyzes the recommended laptops and generates a concise summary of:
 
-\## 🛠️ Installation
+* Strengths
+* Weaknesses
+* Trade-offs
+* Best overall choice
 
+### 6. Full Automation
 
+`ALL_process.py` runs:
 
-\### 1. Clone the Repository
+1. `recommend_cli.py`
+2. `gemini_review.py`
 
+This produces both recommendations and AI-generated analysis in one step.
 
+## Installation
+
+### Clone the Repository
 
 ```bash
-
-git clone https://github.com/YOUR\_USERNAME/LappyX.-readable summary and AI analysis.git
-
+git clone https://github.com/YOUR_USERNAME/LappyX.git
 cd LappyX
-
-
-
 ```
 
-
-
-\### 2. Set Up Environment (Recommended)
-
-
-
-\*\*Windows:\*\*
-
-
+### Create a Virtual Environment (Optional)
 
 ```bash
-
 python -m venv .venv
-
-.venv\\Scripts\\activate
-
-
-
 ```
 
+### Activate the Virtual Environment
 
-
-\*\*Linux/macOS:\*\*
-
-
+#### Windows
 
 ```bash
+.venv\Scripts\activate
+```
 
-python -m venv .venv
+#### Linux/macOS
 
+```bash
 source .venv/bin/activate
-
-
-
 ```
 
-
-
-\### 3. Install Dependencies
-
-
+### Install Dependencies
 
 ```bash
-
 pip install -r requirements.txt
-
-
-
 ```
 
+## Requirements
 
+```text
+requests
+beautifulsoup4
+google-genai
+```
 
-\---
+## Usage
 
+### Recommendation Engine Only
 
+If you do not want to use Gemini, run:
 
-\## 📖 Usage
+```bash
+python recommend_cli.py
+```
 
+### Gemini Review Only
 
+Run after recommendations have been generated:
 
-| Option | Command | Description |
+```bash
+python gemini_review.py
+```
 
-| --- | --- | --- |
+### Full Workflow
 
-| \*\*Full Workflow\*\* | `python ALL\_process.py` | Runs recommendations + Gemini AI analysis. |
+Run both recommendation and Gemini analysis:
 
-| \*\*Engine Only\*\* | `python recommend\_cli.py` | Get recommendations without AI summaries. |
+```bash
+python ALL_process.py
+```
 
-| \*\*AI Review Only\*\* | `python gemini\_review.py` | Generate analysis for existing recommendations. |
+### Scrape Benchmark Data
 
-| \*\*Scrape Data\*\* | `python cpu\_scraper.py` | Update CPU/GPU benchmark databases. |
+```bash
+python cpu_scraper.py
+python gpu_scraper.py
+```
 
+## Gemini Setup
 
+To use Gemini summaries, open `gemini_review.py` and replace:
 
-\### Gemini Setup
+```python
+api_key = "YOUR_GEMINI_API_KEY"
+```
 
+with your own Gemini API key.
 
+If you do not want to use Gemini, simply run:
 
-To enable AI summaries, edit `gemini\_review.py` and add your API key:
+```bash
+python recommend_cli.py
+```
 
-`api\_key = "YOUR\_GEMINI\_API\_KEY"`
+## Output Files
 
+Generated files include:
 
+* `recommended_laptops.json`
+* `final_report.txt`
 
-\---
+These files are created automatically during execution.
 
+## Notes
 
+* Development is in the initial stage.
+* `nametojson.py` is still being improved and may not always extract data accurately.
+* Converting `name.txt` to `laptops.json` is currently done manually or with the help of an AI model.
+* Some benchmark scraping failures are expected because NanoReview URL formats are not always consistent.
+* Recommendation quality will improve as more laptop data is added.
 
-\## 📝 Output Files
+## Future Improvements
 
+* Improve `nametojson.py`
+* Add more laptops to the dataset
+* Improve CPU and GPU URL matching
+* Build a web application
+* Add RAM and SSD upgradeability support
+* Add automated testing
+* Add real-time price updates
 
+## License
 
-Execution results in the following files:
-
-
-
-\* `recommended\_laptops.json`: The raw filtered data.
-
-\* `final\_report.txt`: The human-readable report including AI analysis.
-
+This project is released under the MIT License.
