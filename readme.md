@@ -109,7 +109,7 @@ This produces both recommendations and AI-generated analysis in one step.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LappyX.git
+git clone https://github.com/invaderAs/LappyX.git
 cd LappyX
 ```
 
